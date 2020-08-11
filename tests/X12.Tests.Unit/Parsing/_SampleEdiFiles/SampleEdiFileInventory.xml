@@ -467,6 +467,10 @@
   <TransactionSet Id="850">
     <EdiFile>
       <SourceUrl>http://www.pgwglass.com/manufacturing/Supplier%20Information/EDI%20Specifications/PGW_850_Specs.pdf</SourceUrl>
+      <ResourcePath>ORD._850.EDExample_ASCENDL.txt</ResourcePath>
+    </EdiFile>
+    <EdiFile>
+      <SourceUrl>http://www.pgwglass.com/manufacturing/Supplier%20Information/EDI%20Specifications/PGW_850_Specs.pdf</SourceUrl>
       <ResourcePath>ORD._850.Example1_PGWGlass.txt</ResourcePath>
     </EdiFile>
     <EdiFile>

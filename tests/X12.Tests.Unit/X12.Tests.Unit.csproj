@@ -99,6 +99,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Parsing\_SampleEdiFiles\ORD\_850\EDExample_ASCENDL.txt" />
     <EmbeddedResource Include="Parsing\_SampleEdiFiles\MISC\_102\Example.txt" />
     <EmbeddedResource Include="Parsing\_SampleEdiFiles\QSS\_286\Ids.txt" />
     <EmbeddedResource Include="Parsing\_SampleEdiFiles\QSS\_863\essarsteelalgoma.txt" />

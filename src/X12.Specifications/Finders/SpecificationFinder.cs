@@ -70,6 +70,10 @@
                     return versionCode.Contains("5010")
                                ? GetSpecification("837-5010")
                                : GetSpecification("837-4010");
+                case "850":
+                    return versionCode.Contains("5010")
+                        ? GetSpecification("850-5010")
+                        : GetSpecification("850-4010");
                 case "875":
                     return GetSpecification("875-5010");
                 case "880":
